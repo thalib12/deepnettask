@@ -196,6 +196,7 @@ text-align: center;
    }
    .whitebdr{
       width: 100%;
+      border: none;
       
    }
    .line{
